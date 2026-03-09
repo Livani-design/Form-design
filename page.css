@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+    margin: 0%;
+}
+button{
+    background-color: blue;
+    color: antiquewhite;
+    width: 70px;
+    cursor: pointer;
+    border: none;
+    padding: 6px;
+    border: 8px;
+}
